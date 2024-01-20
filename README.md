@@ -2,21 +2,6 @@
 
 This is a backend API for an Employee Management System. It supports basic CRUD operations for managing employee records.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Validation](#validation)
-- [Authentication](#authentication)
-- [Testing](#testing)
-- [Pagination](#pagination)
-- [Sorting and Filtering](#sorting-and-filtering)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
