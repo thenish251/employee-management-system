@@ -1,4 +1,3 @@
-// validationMiddleware.js
 const Joi = require('@hapi/joi');
 
 const validateEmployee = (req, res, next) => {
